@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LTCB_GIAIPTBAC2", "LTCB_GIAIPTBAC2\LTCB_GIAIPTBAC2.vcxproj", "{F09B72C0-79CD-4887-A390-D2CD8BD445F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09B72C0-79CD-4887-A390-D2CD8BD445F7}.Debug|x64.ActiveCfg = Debug|x64
+		{F09B72C0-79CD-4887-A390-D2CD8BD445F7}.Debug|x64.Build.0 = Debug|x64
+		{F09B72C0-79CD-4887-A390-D2CD8BD445F7}.Debug|x86.ActiveCfg = Debug|Win32
+		{F09B72C0-79CD-4887-A390-D2CD8BD445F7}.Debug|x86.Build.0 = Debug|Win32
+		{F09B72C0-79CD-4887-A390-D2CD8BD445F7}.Release|x64.ActiveCfg = Release|x64
+		{F09B72C0-79CD-4887-A390-D2CD8BD445F7}.Release|x64.Build.0 = Release|x64
+		{F09B72C0-79CD-4887-A390-D2CD8BD445F7}.Release|x86.ActiveCfg = Release|Win32
+		{F09B72C0-79CD-4887-A390-D2CD8BD445F7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABB895DA-2A9E-403D-8783-8CBB498B24CA}
+	EndGlobalSection
+EndGlobal
